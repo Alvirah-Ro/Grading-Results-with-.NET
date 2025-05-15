@@ -4,6 +4,7 @@
 // initialize variables - graded assignments 
 int currentAssignments = 5;
 
+// TO DO: ADD VARIABLE FOR STUDENTS
 int sophia1 = 93;
 int sophia2 = 87;
 int sophia3 = 98;
@@ -28,6 +29,7 @@ int jeong3 = 98;
 int jeong4 = 100;
 int jeong5 = 97;
 
+// TO DO: REDUCE CODE BY LOOPING THROUGH STUDENT VARIABLES
 int sophiaSum = sophia1 + sophia2 + sophia3 + sophia4 + sophia5;
 int nicolasSum = nicolas1 + nicolas2 + nicolas3 + nicolas4 + nicolas5;
 int zahirahSum = zahirah1 + zahirah2 + zahirah3 + zahirah4 + zahirah5;

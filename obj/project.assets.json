@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rebeccakimpton/MyApp/MyApp.csproj",
+      "projectUniqueName": "/Users/rebeccakimpton/Grading-Results-with-.NET/MyApp.csproj",
       "projectName": "MyApp",
-      "projectPath": "/Users/rebeccakimpton/MyApp/MyApp.csproj",
+      "projectPath": "/Users/rebeccakimpton/Grading-Results-with-.NET/MyApp.csproj",
       "packagesPath": "/Users/rebeccakimpton/.nuget/packages/",
-      "outputPath": "/Users/rebeccakimpton/MyApp/obj/",
+      "outputPath": "/Users/rebeccakimpton/Grading-Results-with-.NET/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rebeccakimpton/.nuget/NuGet/NuGet.Config"
